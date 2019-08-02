@@ -1,5 +1,5 @@
-#define WIFI_SSID "wifi ap name"
-#define WIFI_PASS "wifi password"
+#define WIFI_SSID "AAAA"
+#define WIFI_PASS "23031999"
 
 #define HOMEKIT_PASSWORD "111-11-111"
 
